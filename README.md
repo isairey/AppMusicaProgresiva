@@ -87,7 +87,12 @@ Si encuentras algún problema:
 
 ---
 
+## 👨‍💻 Autor
 
+<a href="https://github.com/isairey/WebStreamingMusic/graphs/contributors"> <img src="https://contrib.rocks/image?repo=isairey/WebStreamingMusic" /> </a>
+
+
+**Isai Reyes**
 
 ## 📜 Licencia
 
