@@ -1,27 +1,94 @@
-## An open source progressive music app made with Javascript using ReactJS and Material-Ui
-![Ylight music app screenshots](https://i.imgur.com/DKTItwI.png)
+<p align="center">
+  <img src="https://i.imgur.com/DKTItwI.png" alt="Ylight Music App" width="900"/>
+</p>
 
-## Maintainence Update
-I am sorry to announce that I am dropping support for ylight music
-I have just stopped my backend servers the front-end is still functional you can hook it up to any server.
+<h1 align="center">🎵 Ylight Music</h1>
 
-**Taking away music creators earning didn't seem like a right thing to do.**
+<p align="center">
+  <strong>Aplicación de música progresiva (PWA) desarrollada con React y Material UI</strong><br>
+  Streaming moderno, ligero y totalmente personalizable.
+</p>
 
-Thank You!
+<p align="center">
+  <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Material--UI-UI-blue?style=for-the-badge&logo=mui">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/PWA-Supported-purple?style=for-the-badge">
+</p>
 
-## Run it locally 
-1. Clone the repo
-2. Do a `npm install`
-3. Put youtube API keys in the sample env file and rename it to `.env`
-4. Run it using `npm start`
+---
 
-## Learn through video
-[![Youtube video](https://img.youtube.com/vi/M_1ZCab5x0w/hqdefault.jpg)](https://youtu.be/M_1ZCab5x0w)
+## 🚀 Descripción
 
-### Please open an issue for any bugs
-### Please support me on patreon 
-[![Become a patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=7063971)
+**Ylight Music** es una aplicación web progresiva (PWA) de código abierto para reproducir música, construida con tecnologías modernas como **ReactJS** y **Material UI**.
 
-## I would like to thank
-+ [Will Adams](https://github.com/bushblade)
-+ [Reactiflux members](https://discord.gg/Ff8Jt8v)
+Está diseñada para ser rápida, ligera y accesible desde cualquier navegador.
+
+---
+
+
+
+## ✨ Características
+
+- 🎧 Reproducción de música en navegador  
+- ⚡ Interfaz moderna con Material UI  
+- 📱 Aplicación progresiva (PWA)  
+- 🔍 Búsqueda mediante API de YouTube  
+- 🌐 Acceso multiplataforma  
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Frontend:** ReactJS  
+- **UI:** Material UI  
+- **Lenguaje:** JavaScript (ES6)  
+- **API:** YouTube Data API  
+
+---
+
+## ⚙️ Instalación Local
+
+### 1️⃣ Clonar el repositorio
+
+```bash
+git clone <repo-url>
+cd <nombre-del-proyecto>
+```
+### 2️⃣ Instalar dependencias
+```
+npm install
+```
+
+### 3️⃣ Configurar variables de entorno
+```
+Agrega tu API Key de YouTube
+Renombra el archivo:
+.env.example → .env
+```
+
+### 4️⃣ Ejecutar la aplicación
+```
+npm start
+```
+
+👉 Abre en tu navegador:
+```
+http://localhost:3000
+```
+
+---
+
+## 🐛 Reporte de Errores
+
+Si encuentras algún problema:
+
+- 👉 Abre un Issue en el repositorio
+
+---
+
+
+
+## 📜 Licencia
+
+Este proyecto es de código abierto y puede ser utilizado con fines educativos o de desarrollo.
