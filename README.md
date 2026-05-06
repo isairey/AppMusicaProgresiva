@@ -96,4 +96,4 @@ Si encuentras algún problema:
 
 ## 📜 Licencia
 
-Este proyecto es de código abierto y puede ser utilizado con fines educativos o de desarrollo.
+License MIT.
